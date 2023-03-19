@@ -1,5 +1,5 @@
 # Simplified-to-do-list
-Introdução ao HTML - CSS - JAVASCRIPT SISTEMA WEB:
+Introduction to HTML - CSS - JAVASCRIPT WEB SYSTEM:
 The purpose of this application is to build a simple and dynamic to-do list.
 
 HTML is the programming language responsible for creating the visual elements on the screen. 
